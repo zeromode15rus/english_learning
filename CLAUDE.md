@@ -12,7 +12,7 @@ I am also a developer (frontend + backend) preparing for technical interviews.
 ## Daily session structure (DO NOT change without being asked)
 
 ### 1. Vocabulary — 40 words
-- Categories: 5 economics / 5 art & architecture / 10 engineering / 10 mathematics / 10 literary
+- Categories: 5 economics / 5 art & architecture / 5 engineering / 5 programming & CS / 10 mathematics / 10 literary
 - Language: Russian-first. Word in bold + (English in parentheses)
 - Format: plain numbered list. NO flashcard widgets, NO tables, NO cards.
 - Each entry must include:
