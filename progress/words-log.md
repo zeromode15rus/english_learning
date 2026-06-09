@@ -1,7 +1,7 @@
 # Words Log — English Learning Project
 
 Tracks all words studied. Agent reads this before each session to avoid repetition.
-Current day: 1
+Current day: 2
 
 ---
 
@@ -56,3 +56,57 @@ interstitial
 mordant
 ineffable
 cadence
+
+---
+
+## Day 002
+
+### Economics (5)
+fiscal policy
+solvency
+hedging
+subsidy
+stagflation
+
+### Art & Architecture (5)
+entablature
+impasto
+pediment
+grisaille
+narthex
+
+### Engineering (10)
+resonance
+fracture toughness
+creep
+galvanic corrosion
+thermal conductivity
+moment of inertia
+damping
+strain
+hydrostatic pressure
+stress concentration factor
+
+### Mathematics (10)
+gradient
+divergence
+curl
+tensor
+convex function
+fixed point
+homomorphism
+permutation
+limit superior
+field
+
+### Literary / General (10)
+lugubrious
+sepulchral
+elegiac
+valediction
+evocative
+palimpsest
+diaphanous
+fugitive
+equanimity
+diffident
