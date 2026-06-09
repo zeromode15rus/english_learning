@@ -19,17 +19,33 @@ I am serious about this — do not simplify, do not be condescending, treat me a
   - 1–2 example sentences in Russian showing the word used naturally in context
   - Etymology note where illuminating (origin language, root meaning)
 
-### 2. English retelling passage — 250–350 words
+### 2. English retelling passage — 300–400 words
 - Theme: a place, a moment in time, a natural phenomenon, a human scene, or an artwork
-- Style: literary, descriptive, precise — no journalistic flatness
-- Required constructions (rotate and vary each day, never repeat the same pattern twice in a row):
-  - Negative inversion (Seldom had…, Rarely does…, Never before had…)
-  - Passive voice used for deliberate rhetorical effect, not just grammar exercise
-  - Reduced participial clauses (past and present)
-  - Absolute clauses (subject + participle, detached from main clause)
-  - Complex noun phrases with post-modification (embedded relative, participial, infinitive)
-  - Nominal relative clauses as subject (What remained…, What struck him most…)
-- After the passage: break down EVERY sentence — rule name / full form / reduced form / when to use
+- Style: literary, descriptive, aesthetically ambitious — model is Nabokov, Woolf, Sebald, late Henry James. No journalistic flatness. No simple sentences where a complex one can do the work more beautifully.
+- The passage must be genuinely beautiful — not a grammar exercise dressed as literature, but literature that happens to contain grammar. Each sentence should be worth reading for its own sake.
+- Sentences must be layered: a single sentence may contain 2–4 constructions simultaneously — absolute clause + participial modifier + complex noun phrase, for example. Avoid one-construction-per-sentence schoolbook style.
+- Required constructions — use ALL of these across the passage, rotating which appear in which sentence:
+  - Negative inversion (*Seldom had…, Rarely does…, Never before had…, Not until…, So dense was…*)
+  - Passive voice for deliberate rhetorical effect — foregrounding the receiver, suppressing the agent
+  - Reduced past participial clauses (*Draped in…, Pressed against…, Held together by…*)
+  - Reduced present participial clauses (*Stretching from…, Arriving without…, Carrying with it…*)
+  - Absolute clauses — own subject + participle (*its head tilted, the light failing, the windows dark*)
+  - Complex noun phrases: stacked post-modifiers (relative + participial + infinitive + prepositional)
+  - Nominal relative clauses as subject (*What remained…, What no one had anticipated…*)
+  - *so [adj] as to [infinitive]* — degree/result structure
+  - *not so much X as Y* — correlative reframing
+  - *as though* + participle — suppressed subjunctive
+  - Fronted object-complement (*to make visible the…, to render permanent the…*)
+  - Tricolon — three parallel noun phrases or clauses, third element longest or most complex
+  - Appositive noun phrase expanding on the previous noun (*— that moment when…, — the particular shade of…*)
+- After the passage: break down EVERY grammatical construction using this exact format:
+  - **Правило / Rule:** название по-русски — English name
+  - **Время / Форма:** явное название времени или формы + краткая структура
+  - **Полная форма:** без сокращения, без инверсии
+  - **Изменённая форма:** как написано в тексте
+  - **Применение:** когда и почему — на русском
+  - **Почему так построено это предложение:** зачем автор выбрал именно эту конструкцию — риторический и смысловой эффект
+- End the breakdown with a summary table of all constructions used that day
 
 ### 3. Russian literary excerpt — 200–300 words
 - Canonical authors only: Tolstoy, Bulgakov, Bunin, Gogol, Chekhov, Turgenev, Nabokov, Pasternak, Akhmatova, Tsvetaeva
@@ -94,11 +110,18 @@ I am serious about this — do not simplify, do not be condescending, treat me a
 ## File structure
 ```
 english-learning/
-├── CLAUDE.md                        ← this file, auto-loaded
-├── .claude/commands/new-day.md      ← /new-day command
-├── progress/words-log.md            ← all studied words, single source of truth
-├── sessions/day-NNN.md              ← full daily sessions
-├── retellings/[slug].md             ← standalone English passages (on demand)
+├── CLAUDE.md                              ← this file, auto-loaded
+├── .claude/commands/new-day.md            ← /new-day command
+├── progress/words-log.md                  ← all studied words, single source of truth
+├── sessions/
+│   └── day-NNN/                          ← one folder per day
+│       ├── vocabulary.md                 ← 40 words
+│       ├── passage.md                    ← English retelling + grammar breakdown
+│       ├── excerpt.md                    ← Russian literary excerpt + commentary
+│       ├── algorithm.md                  ← algorithm theory block
+│       ├── math.md                       ← math / physics block
+│       └── questions.md                  ← comprehension questions
+├── retellings/[slug].md                  ← standalone English passages (on demand)
 └── theory/
     ├── algorithms/NN-name.md
     └── math/NN-name.md
