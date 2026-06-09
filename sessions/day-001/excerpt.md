@@ -1,9 +1,8 @@
-# Day 001 — 2026-06-07
+# Day 001 — Russian Literary Excerpt
 
 ---
 
-
-## Russian Literary Excerpt — For Memorization
+## Текст для заучивания
 
 **Автор:** Иван Тургенев
 **Произведение:** «Записки охотника» — «Бежин луг» (1851)
@@ -16,14 +15,34 @@
 
 ---
 
-**Почему стоит учить наизусть:**
+## Английский перевод — что теряется при переводе
 
-1. **Структура периода.** Тургенев строит предложение как архитектурный свод: вводные части нарастают («не огнистое, не раскалённое… не тускло-багровое…»), и только потом приходит главная мысль. Это «период» в античном смысле — предложение, которое не может завершиться раньше времени. Такая структура тренирует умение держать синтаксическое напряжение долго.
+It was a splendid July day, one of those days that occur only when the weather has settled in for a long while. From earliest morning the sky is clear; the dawn does not blaze with fire — it spreads itself in a gentle flush of rose. The sun — not fiery, not scorching as in the heat of drought, not dully crimson as before a storm, but bright and welcomingly radiant — rises peacefully beneath a long, narrow cloud, gleams freshly through it and disappears into its lilac haze. The upper, slender rim of the stretched cloud begins to flash with small, zigzag sparks; their glitter is like the glitter of wrought silver... But then the playful rays pour out again — and joyously and majestically, as though rising in flight, the mighty sun ascends.
 
-2. **Отрицательная характеристика.** Тургенев описывает, каким солнце НЕ является, прежде чем сказать, какое оно есть. Это риторический приём — «определение через отрицание» — который создаёт ожидание и делает финальный образ («светлое и приветно лучезарное») особенно ярким. В английской прозе ему соответствует apophasis.
+Toward noon a great many rounded, high clouds appear, golden-grey, with soft white edges. Like islands scattered across a river that has spread without limit, they are lapped by its smoothly flowing channels of clear blue; they scarcely move; further off, toward the horizon, they crowd together, press upon one another, and the blue between them can no longer be seen; but they themselves are as azure as the sky — they are all penetrated through and through with light and warmth.
 
-3. **Световая живопись.** Каждый абзац — это смена освещения: утро, полдень, вечер. Тургенев описывает не предметы, а качество света, падающего на них — это техника импрессионистической прозы за тридцать лет до самого импрессионизма. Заучивая этот отрывок, вы усваиваете, как строить нарастающую световую партитуру.
-
-4. **Грамматика.** Обилие причастных оборотов («обтекающей их глубоко прозрачными рукавами»), сравнений-развёртываний («Подобно островам, разбросанным по…»), деепричастий и инверсий. Это живая норма высокой русской прозы XIX века — не устаревшая, а образцовая.
+The colour of the sky, light and pale-lilac, does not change throughout the day and is the same in every direction; nowhere does it darken, nowhere does a storm gather; here and there, perhaps, bluish streaks trail from top to bottom — that is a barely perceptible rain being sown. Toward evening these clouds vanish; the last of them, blackish and vague as smoke, settle in rosy masses opposite the setting sun; at the place where it has gone down as peacefully as it rose, a scarlet glow stands for a short time over the darkened earth, and, blinking softly like a carefully carried candle, the evening star kindles upon it.
 
 ---
+
+### Что теряется при переводе
+
+**1. «Приветно лучезарное»** — два слова в русском несут три смысловых слоя: «радушно» + «лучисто» + «сияюще». В английском нет слова, охватывающего это одновременно. «Welcomingly radiant» — калька, а не эквивалент: русское слово звучит естественно, английское — нет.
+
+**2. «Засверкают змейками»** — уменьшительно-ласкательный суффикс «-ками» передаёт не только размер, но и нежность, игривость. «Small zigzag sparks» — точно по смыслу, но лишено той интонации умиления, которая в русском сидит прямо в морфологии.
+
+**3. «Тихо мигая, как бережно несомая свечка»** — ритм русской фразы: ударение падает на «ти́хо» и «свечка» — два коротких слова в начале и конце. В переводе ритм неизбежно другой. «Blinking softly like a carefully carried candle» — слог «carefully carried candle» слишком тяжёлый для образа, который должен быть невесомым.
+
+**4. Настоящее время как поэтический приём** — Тургенев переключается с прошедшего времени на настоящее («не пылает», «разливается», «засверкает»), создавая эффект вечного повторения: это не один июльский день, а все такие дни сразу. Английский перевод вынужден выбирать одно время — и теряет эту двойственность.
+
+---
+
+## Почему стоит учить наизусть
+
+**1. Структура периода.** Тургенев строит предложение как архитектурный свод: вводные части нарастают («не огнистое, не раскалённое… не тускло-багровое…»), и только потом приходит главная мысль. Это «период» в античном смысле — предложение, которое не может завершиться раньше времени. Такая структура тренирует умение держать синтаксическое напряжение долго.
+
+**2. Определение через отрицание (apophasis).** Тургенев говорит, каким солнце НЕ является — и этим создаёт точный образ того, какое оно есть. Финальное «светлое и приветно лучезарное» приходит как облегчение после трёх отрицаний. Это классический риторический приём: ожидание, созданное через устранение.
+
+**3. Световая партитура.** Три абзаца — три момента дня: утро, полдень, вечер. Тургенев описывает не предметы, а качество света, падающего на них. Это техника импрессионистической прозы за тридцать лет до самого импрессионизма.
+
+**4. Синтаксическое богатство.** Причастные обороты внутри предложений («обтекающей их глубоко прозрачными рукавами»), сравнения-развёртывания («Подобно островам, разбросанным по…»), инверсии, нанизывание однородных членов — всё это живая норма высокой русской прозы XIX века.
